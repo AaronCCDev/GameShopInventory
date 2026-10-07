@@ -8,6 +8,8 @@ The exercise was to create an application based on a pre-determined scenario tha
 
 
 •	Functional & Non-functional requirements
+
+
 •	MoSoCoW table
 •	Textural Analysis
 •	CRC Cards
