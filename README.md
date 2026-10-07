@@ -9,11 +9,14 @@ The exercise was to create an application based on a pre-determined scenario tha
 
 •	Functional & Non-functional requirements
 
-
 •	MoSoCoW table
+
 •	Textural Analysis
+
 •	CRC Cards
+
 •	Use cases and Detailed use cases
+
 •	UML Design
 
 Once the documentation was completed, the code could begin using the documentation for reference.
